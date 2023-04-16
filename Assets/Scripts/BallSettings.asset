@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e8d547eee6d84c8f80f488f8868b4b3, type: 3}
+  m_Name: BallSettings
+  m_EditorClassIdentifier: 
+  BallMaterials:
+  - {fileID: 2100000, guid: 1ef37426808d94b2da380f218a84ef3b, type: 2}
+  - {fileID: 2100000, guid: 4019540602a44402fb3af92ce995455e, type: 2}
+  - {fileID: 2100000, guid: 74aa687e97fae4ba2890b40bedbaf48a, type: 2}
+  - {fileID: 2100000, guid: 1295a9907860341beb6079230b4aaf49, type: 2}
+  - {fileID: 2100000, guid: b9449010aef564b6b88c5dd6fce40954, type: 2}
+  - {fileID: 2100000, guid: cd23f01505e5c41d4b749c962c1ec858, type: 2}
+  - {fileID: 2100000, guid: f6adace6556e74d89865f6180d3b9d59, type: 2}
+  - {fileID: 2100000, guid: 89328fc30b44d4ec28980dde64b72dc8, type: 2}
+  - {fileID: 2100000, guid: f822a9bd3edb346ed841788bc78f02a4, type: 2}
+  - {fileID: 2100000, guid: 50750f39e1c8a48ebaa9ad4c5a8ea3f5, type: 2}
+  - {fileID: 2100000, guid: dc1396dcb85e54342b6cb0112d6ed1c4, type: 2}
+  BallProjectionMaterials:
+  - {fileID: 2100000, guid: 9a9499398ba394332acd19ffafdc7f26, type: 2}
+  - {fileID: 2100000, guid: 4f4c7beb9bf764c71b8e0326b52daa85, type: 2}
+  - {fileID: 2100000, guid: b96ff6762dbed4d13979a4dc2fd7251c, type: 2}
+  - {fileID: 2100000, guid: ec27620b6d2464c048ca1cf7f9433dd8, type: 2}
+  - {fileID: 2100000, guid: 38b91f32f480848e099a0ab29ae91853, type: 2}
+  - {fileID: 2100000, guid: 934e021e4321a4039aad966572c9cf28, type: 2}
+  - {fileID: 2100000, guid: 40e94e44c3d9b4c9b8a6e4237763db58, type: 2}
+  - {fileID: 2100000, guid: a5f52fe716cf34c908da4bc772e1502d, type: 2}
+  - {fileID: 2100000, guid: dccb27c4925074de087c89bbfdb5f056, type: 2}
+  - {fileID: 2100000, guid: be36114fa7629412a9476eec7e70a97e, type: 2}
+  - {fileID: 2100000, guid: b703f10aec3c74e2fa90a5d192f44855, type: 2}
