@@ -24,11 +24,10 @@ public class ActiveItem : Item
      }
 
      [ContextMenu("IncreaseLevel")]
-     public void IncreaseLevel()
+     public virtual void IncreaseLevel()
      {
           Level++;
           SetLevel(Level);
-          ItemAnimator.SetTrigger("IncreaseLevel");
           Trigger.enabled = false;
           StartCoroutine(EnableTrigger());
      }
